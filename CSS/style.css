@@ -255,6 +255,14 @@ p#links-details a
     padding-top: 60%;
     margin: 0 auto;
 }
+@media screen and (max-width: 992px)
+{
+    #location,#stay-tuned,#email-updates,#links
+    {
+        text-align: center;
+        height: auto;
+    }
+}
 @media screen and (max-width: 992px){
     #slider-control img,#finishes-slider-control img{
         padding-top: 70px;
