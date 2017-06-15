@@ -113,7 +113,7 @@ nav {
 {
     margin-top: 3%;
 }
-#slider-text h2,#finishes-section-text h2{
+#slider-text h2,#finishes-section-text h2,#quality-assurance h2{
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
     font-size: 42px;
@@ -124,6 +124,10 @@ nav {
     /*margin: 30px auto;
     padding-left: 40px;*/
 }
+#quality-assurance-text
+{
+    height: 400px
+}
 /*#slider-text h2::after{
     !*border-top: 2px solid #c7c7c7;*!
     content: "";
@@ -131,7 +135,31 @@ nav {
     bottom: 35px;
     width: 100%;
 }*/
-
+#location,#stay-tuned,#email-updates,#links
+{
+    font-family: 'Raleway', sans-serif;
+}
+#location h3,#stay-tuned h3,#email-updates h3,#links h3
+{
+    font-weight: 600;
+}
+#location-detail,#stay-tuned-detail,#email-updates-details,#links-details
+{
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.social-conn .fa
+{
+    border-style: solid;
+    border-top-color: black;
+    border-width: 3px;
+    border-radius: 12%;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    /*margin-top: 20%;*/
+}
 #itemslider h4,#finishes-slider h4{
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
