@@ -228,17 +228,16 @@ p#links-details a
     margin-bottom: 3%;
     /*background-color: #d7d7d8;*/
 }
-#finishes-slider img
+.carousel-inner img
 {
-    /*border-style: solid;
-    border-radius: 16px;*/
-}
-#finishes-slider img:hover
-{
-
+    border-style: solid;
+    border-radius: 16px;
+    border-color: #d9534f;
+    border-width: 2px;
 }
 
-.badge {
+
+/*.badge {
     background: #b20c0c;
     position: absolute;
     height: 40px;
@@ -252,7 +251,7 @@ p#links-details a
     box-shadow: 0 0 0 1px #b20c0c;
     top: 5px;
     right: 25%;
-}
+}*/
 #slider-control img,#finishes-slider-control img{
     padding-top: 60%;
     margin: 0 auto;
