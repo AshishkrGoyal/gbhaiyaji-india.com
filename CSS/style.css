@@ -253,7 +253,7 @@ p#links-details a
     right: 25%;
 }*/
 #slider-control img,#finishes-slider-control img{
-    padding-top: 60%;
+    padding-top: 100%;
     margin: 0 auto;
 }
 @media screen and (max-width: 992px)
