@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef447295-acff-4d72-b5f8-5b678fe1982a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/updatedsliderimage/img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/head.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img1.webp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img2.webp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img3.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img3.webp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img4.webp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img5.webp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/updatedsliderimage/cwebp.exe" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/bootstrap-touch-slider.css" afterPath="$PROJECT_DIR$/CSS/bootstrap-touch-slider.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scroll_nav.js" afterPath="$PROJECT_DIR$/scroll_nav.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,8 +37,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="244" column="57" lean-forward="false" selection-start-line="244" selection-start-column="57" selection-end-line="244" selection-end-column="57" />
+            <state relative-caret-position="550">
+              <caret line="513" column="99" lean-forward="false" selection-start-line="513" selection-start-column="99" selection-end-line="513" selection-end-column="99" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -80,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/CSS/bootstrap-touch-slider.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
-              <caret line="171" column="47" lean-forward="true" selection-start-line="171" selection-start-column="47" selection-end-line="171" selection-end-column="47" />
+              <caret line="171" column="47" lean-forward="false" selection-start-line="171" selection-start-column="47" selection-end-line="171" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -261,12 +271,12 @@
       <workItem from="1496985046567" duration="22437000" />
       <workItem from="1497725788217" duration="5035000" />
       <workItem from="1498398522538" duration="1070000" />
-      <workItem from="1498474847860" duration="849000" />
+      <workItem from="1498474847860" duration="2006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114598000" />
+    <option name="totallyTimeSpent" value="115755000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -278,7 +288,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19180088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -632,15 +642,15 @@
     <entry file="file://$PROJECT_DIR$/CSS/bootstrap-touch-slider.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="171" column="47" lean-forward="true" selection-start-line="171" selection-start-column="47" selection-end-line="171" selection-end-column="47" />
+          <caret line="171" column="47" lean-forward="false" selection-start-line="171" selection-start-column="47" selection-end-line="171" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="244" column="57" lean-forward="false" selection-start-line="244" selection-start-column="57" selection-end-line="244" selection-end-column="57" />
+        <state relative-caret-position="550">
+          <caret line="513" column="99" lean-forward="false" selection-start-line="513" selection-start-column="99" selection-end-line="513" selection-end-column="99" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
