@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef447295-acff-4d72-b5f8-5b678fe1982a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/head.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img1.webp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img2.webp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img3.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img3.webp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img4.webp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img5.webp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/updatedsliderimage/cwebp.exe" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="ef447295-acff-4d72-b5f8-5b678fe1982a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -271,12 +255,12 @@
       <workItem from="1496985046567" duration="22437000" />
       <workItem from="1497725788217" duration="5035000" />
       <workItem from="1498398522538" duration="1070000" />
-      <workItem from="1498474847860" duration="2006000" />
+      <workItem from="1498474847860" duration="2510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115755000" />
+    <option name="totallyTimeSpent" value="116259000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
